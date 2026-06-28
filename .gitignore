@@ -18,4 +18,5 @@
 latexmkrc
 *.tex
 *.bib
+*.sty
 Makefile
